@@ -1,0 +1,2 @@
+# Checkerboards
+Java checkerboard project
